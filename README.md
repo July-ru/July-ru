@@ -18,7 +18,7 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=July-ru&show_icons=true&theme=tokyonight)
 
 ---
 
