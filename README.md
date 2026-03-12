@@ -16,7 +16,7 @@
 
 ---
 
-## Estatísticas do GitHub
+## Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=July-ru&show_icons=true&theme=tokyonight)
 
@@ -24,6 +24,6 @@
 
 ## Contato
 
-💼 LinkedIn: https://linkedin.com/in/juliany-roque
+LinkedIn: https://linkedin.com/in/juliany-roque
 
 ---
