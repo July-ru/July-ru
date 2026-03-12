@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou Juliany, atualmente sou Estudante de Análise e Desenvolvimento de Sistemas (ADS) - IFAM
+Olá, me chamo Juliany. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) - IFAM.
 
 <!--
 **July-ru/July-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
