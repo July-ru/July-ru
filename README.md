@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Juliany Roque :]
 
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-- Interessada em **desenvolvimento web, game dev e mobile**  
+- Interessada em **Desenvolvimento Web, Game Dev e Mobile**  
 - Atualmente aprendendo **Java, C, C# e JavaScript**
 
 ---
