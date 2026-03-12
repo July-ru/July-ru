@@ -24,6 +24,6 @@
 
 ## Contato
 
-LinkedIn: https://linkedin.com/in/juliany-roque
+LinkedIn: www.linkedin.com/in/juliany-roque-da-silva
 
 ---
