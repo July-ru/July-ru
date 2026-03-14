@@ -1,10 +1,14 @@
-# 👋 Olá, eu sou a Juliany :]
+# 👋 Hello, I'm Juliany :]
 
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 - Interessada em **Desenvolvimento Web, Game Dev e Mobile**  
 - Atualmente aprendendo **Java, C, C# e JavaScript**
 
 ---
+
+- Student of **Systems Analysis and Development (IT - ADS)**
+- Interested in **Web Development, Game Development, and Mobile**
+- Currently learning **Java, C, C#, and JavaScript**
 
 ## Linguagens
 
