@@ -31,3 +31,5 @@
 LinkedIn: www.linkedin.com/in/juliany-roque-da-silva
 
 ---
+
+![Print](download.gif)
